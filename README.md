@@ -1,6 +1,6 @@
 # Chat Application using React and Firebase
 
-![Chat Application Screenshot](screenshot.png)
+
 
 This is a real-time chat application built using React and Firebase. The application allows users to engage in instant messaging with real-time updates and user authentication provided by Firebase. The project showcases the integration of React for the frontend and Firebase for the backend, resulting in a dynamic and interactive user experience.
 
